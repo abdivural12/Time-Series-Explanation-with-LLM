@@ -5,7 +5,7 @@
 <p>Notre objectif est d'analyser et d'interpréter les séries temporelles avec des modèles de langage (LLM). Le projet est structuré en deux parties principales :</p>
 <ol>
   <li>Algorithme de Clustering </li>
-  <li></li>Interprétation par LLM </li>
+  <li>Interprétation par LLM </li>
 </ol>
 ## Objectifs
 
