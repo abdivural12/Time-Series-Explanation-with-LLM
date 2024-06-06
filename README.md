@@ -7,6 +7,7 @@
   <li>Algorithme de Clustering </li>
   <li>Interprétation par LLM </li>
 </ol>
+
 ## Objectifs
 
 <ul>
