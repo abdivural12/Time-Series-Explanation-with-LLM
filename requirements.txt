@@ -1,0 +1,16 @@
+prophet
+langchain
+langchain-openai
+openai
+python-dotenv
+numpy
+request
+streamlit
+langchain-experimental
+python-dotenv
+langchain-community
+pandas
+matplotlib
+scikit-learn
+tslearn
+prophet
