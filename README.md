@@ -1,6 +1,6 @@
 # Time-Series-Explanation-with-LLM
 <p align="center">
-    <img src="docs/tse.png" alt="Weather Data Analysis" width="150" height="150">
+    <img src="docs/tse.png" alt="Weather Data Analysis" width="180" height="180">
 </p>
 <p>Ce projet vise à analyser les données météorologiques et à évaluer la qualité et la précision des réponses fournies par les modèles de langage (LLM) d'OpenAI, en utilisant des outils et des bibliothèques variés. Il est structuré autour de deux axes principaux : l'analyse des données par clustering et l'interprétation des résultats par un modèle de LLM.</p>
 
